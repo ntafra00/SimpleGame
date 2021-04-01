@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>realCharacter.png</file>
+        <file>newBackgroundImage.png</file>
+        <file>lastPictureOfTheEnemy.png</file>
+        <file>backgroundDecorOne.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>bulletSound.wav</file>
+    </qresource>
+</RCC>
